@@ -1,0 +1,28 @@
+{
+
+  "manifest_version": 2,
+  "name": "Meet Message Notification",
+  "version": "1.0",
+  
+
+  "description": "Help teachers to see participant Message When Browse Tab is Hide during presentation",
+
+  "icons": {
+    "48": "icons/meet.png"
+  },
+  "permissions": [
+    "notifications",
+    "activeTab"
+],
+  "content_scripts": [
+    {
+      "matches": ["https://meet.google.com/*-*"],
+      "js": ["mynew.js"]
+    }
+
+  ],
+  
+  
+  "web_accessible_resources": ["mynew.js","icons/offline.png","icons/online.png"]
+
+}
