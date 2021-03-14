@@ -6,7 +6,7 @@
 <b>Chrome user can add manually using <a href="https://github.com/dharm8149/Meet_Message-_Notification/raw/main/Chrome/Meet_Message_Notification.zip">link</a></b>
 <br>
 <br>
-After Covid-19 breakdown ,The colleges and schools is shifted to online mode.The Use of Google meet is increased drastically. During the online lectures teachers are unable to see the student messages when they showing presentation or using white board.To overcome this problem teachers can use the Meet Message Notification which show incoming message Notification when meet tab is hide.
+After Covid-19 lockdown ,The colleges and schools is shifted to online mode.The Use of Google meet is increased drastically. During the online lectures teachers are unable to see the student messages when they are showing presentation or using white board.To overcome this problem teachers can use the Meet Message Notification which show incoming message Notification when meet tab is hidden.
 
 <b>Note:</b>This Extension not saving or sharing any data of meet to anywhere.It basically looking for new Message using MutationObserver and notify user using the browser Notification Api. You can see the complete source code on github Meet Message Notification
 
